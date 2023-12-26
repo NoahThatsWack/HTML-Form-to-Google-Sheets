@@ -204,7 +204,7 @@ THIS WILL NOT WORK:
 |   |     A     |   B   | C | ... |
 |---|:---------:|:-----:|:-:|:---:|
 | 1 | FiRstaNdLast | ... | ...   |     |
-| 2 | John Smith | ... | ...   |     |
+| 2 |   | ... | ...   |     |
 
 Additionally, to have the date included on your form you must use "Date", this is also case sensitive. A form with the date included would look similar to the following:
 
