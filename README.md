@@ -172,7 +172,7 @@ Configure your HTML form like the following, replacing `WEBAPP_URL` with the web
 ```
 ---
 
-*This step is option and not nessecary, however without this javascript code you will be redirected to a page that looks similar to the following.*
+*Without this javascript code you will be redirected to a page that looks similar to the following.*
 
 <img src="https://gyazo.com/dd29750aea025a73326bf51cb7a492e6.png" width="600" />
 
